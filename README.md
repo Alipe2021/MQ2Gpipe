@@ -40,7 +40,7 @@ other packages can be installed by conda:
 conda install -n MQ2Gpipe_env -c bioconda -c conda-forge fastp bwa samtools bedtools vcfotools bcftools plink beagle gatk4 ensembl-vep 
 ```
 
-MQ2Gpipe.smk 
+MQ2Gpipe.smk can be download from [here](https://github.com/Alipe2021/MQ2Gpipe/blob/main/MQ2Gpipe.smk)
 
 # Usage
 
